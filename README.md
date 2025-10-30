@@ -27,41 +27,29 @@ This app allows users to search for books by title and view details such as the 
 
 ---
 
-## 📂 Folder Structure
-book-finder/
-├── index.html
-├── package.json
-├── vite.config.js
-├── README.md
-└── src/
-├── main.jsx
-├── index.css
-├── App.jsx
-└── components/
-└── BookCard.jsx
-
----
-
 ### ⚙️ Installation & Local Setup
 
 Follow these steps to run the project locally in VS Code 👇
 
-###  Clone this repository
-```bash
+### 🌀 Clone this repository
 git clone https://github.com/<your-username>/book-finder.git
 cd book-finder
 
-Install dependencies
+
+---
+
+### Install dependencies
 npm install
 
-Start the development server
+### Start the development server
 npm run dev
 Then open the local URL shown in the terminal (usually http://localhost:5173)
 
 ---
+### 🧑‍💻 Author
 
-###  🧑‍💻 **Author**
-**Ramu Rapaka**  
-📧 **Email:** [**rapakaramu52@gmail.com**](mailto:rapakaramu52@gmail.com)
+Ramu Rapaka
+📧 Email: rapakaramu52@gmail.com
+
 
 
