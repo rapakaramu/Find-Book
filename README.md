@@ -42,7 +42,7 @@ book-finder/
 
 ---
 
-## ⚙️ Installation & Local Setup
+### ⚙️ Installation & Local Setup
 
 Follow these steps to run the project locally in VS Code 👇
 
@@ -58,29 +58,10 @@ Start the development server
 npm run dev
 Then open the local URL shown in the terminal (usually http://localhost:5173)
 
-### 📡 API Reference
-
-#### 🔗 API Endpoint
-https://openlibrary.org/search.json?title=%7BbookTitle%7D
-
-#### 🧾 Example
-https://openlibrary.org/search.json?title=harry%20potter
-
-### 🛠️ Troubleshooting
-
-| Problem | Possible Solution |
-|----------|-------------------|
-| No results found | Try a different book title. |
-| Network Error | Check your internet connection. |
-| App not starting | Make sure you ran `npm install` before `npm run dev`. |
-
 ---
 
-### 👨‍💻 Author
+###  🧑‍💻 **Author**
 **Ramu Rapaka**  
-📧 Email: [rapakaramu52@gmail.com](mailto:rapakaramu52@gmail.com)
+📧 **Email:** [**rapakaramu52@gmail.com**](mailto:rapakaramu52@gmail.com)
 
 
-###  Author
-Ramu Rapaka
-Email: rapakaramu52@gmail.com
