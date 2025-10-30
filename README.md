@@ -51,7 +51,7 @@ Follow these steps to run the project locally in VS Code 👇
 git clone https://github.com/<your-username>/book-finder.git
 cd book-finder
 
-Install dependencies
+### Install dependencies
 npm install
 
 Start the development server
