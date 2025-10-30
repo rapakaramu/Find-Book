@@ -28,4 +28,49 @@ This app allows users to search for books by title and view details such as the 
 ---
 
 ## 📂 Folder Structure
+book-finder/
+├── index.html
+├── package.json
+├── vite.config.js
+├── README.md
+└── src/
+├── main.jsx
+├── index.css
+├── App.jsx
+└── components/
+└── BookCard.jsx
 
+---
+
+## ⚙️ Installation & Local Setup
+
+Follow these steps to run the project locally in VS Code 👇
+
+###  Clone this repository
+```bash
+git clone https://github.com/<your-username>/book-finder.git
+cd book-finder
+
+Install dependencies
+npm install
+
+Start the development server
+npm run dev
+Then open the local URL shown in the terminal (usually http://localhost:5173)
+
+API Reference
+🔗 API Endpoint
+https://openlibrary.org/search.json?title={bookTitle}
+
+🧾 Example
+https://openlibrary.org/search.json?title=harry%20potter
+
+Troubleshooting
+Problem	Possible Solution
+No results found-Try a different book title.
+Network Error-Check your internet connection.
+App not starting-Make sure you ran npm install before npm run dev.
+
+Author
+Ramu Rapaka
+Email: rapakaramu52@gmail.com
